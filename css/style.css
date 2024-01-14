@@ -247,10 +247,10 @@ h6 {
 
 #self h2 {
   margin-bottom: 50px;
-  font-size: 1rem;
+  font-size: 1.3rem;
   font-weight: 900;
   letter-spacing: 1px;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 
 
